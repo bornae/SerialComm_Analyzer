@@ -1,0 +1,13 @@
+{
+  "version": "0.0.1",
+  "apiVersion": "1.0.0",
+  "author": "Borna Emami",
+  "description": "Decodes SerialComm Packets from UART",  
+  "name": "SerialComm",
+  "extensions": {
+    "SerialComm": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
